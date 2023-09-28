@@ -173,7 +173,7 @@
 | 同花顺 | [秋招](https://job.10jqka.com.cn/#/) | 2023/8/31 |  |  |
 | 中铁八局 | [秋招](https://special.zhaopin.com/2022/cd/ztbj082902/xiao.html) | 2023/8/28 |  |  |
 | 中广核 | [秋招](https://cgn.hotjob.cn/) | 2023/8/28 |  |  |
-| 交通银行 | [秋招](https://job.bankcomm.com/queryPosition.do) | 2023/8/28 |  |  |
+| 交通银行 | [秋招](https://job.bankcomm.com/queryPosition.do) | 2023/8/28 |  |已投  |
 | 招商银行 | [秋招](https://career.cmbchina.com/positionlist/96574F8D-C7ED-4772-AE7C-BAC896D190C1) | 2023/8/28 |  |  |
 | 中国民生银行 | [秋招](http://career.cmbc.com.cn:8080/#/app/recruitment/campus) | 2023/8/28 |  |  |
 | 中海油               | [秋招](http://cnooc.zhaopin.com/) | 2023/8/24 |  | 截止9/17 |
