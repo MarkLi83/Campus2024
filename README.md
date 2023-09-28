@@ -8,8 +8,8 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
-| 钉钉 | [秋招](https://talent-holding.alibaba.com/home/bg-introduce?code=JEMSVB&lang=zh) | 2023/9/20 |  |已投  |
-| 360 | [秋招](https://360campus.zhiye.com/jobs) | 2023/9/20 |  |  |
+| 钉钉 | [秋招](https://talent-holding.alibaba.com/home/bg-introduce?code=JEMSVB&lang=zh) | 2023/9/20 |  |  |
+| 360 | [秋招](https://360campus.zhiye.com/jobs) | 2023/9/20 |  | 已投 |
 | BOSS直聘 | [秋招](https://www.zhipin.com/gongsi/job/fa2f92669c66eee31Hc~.html?ka=company-jobs) | 2023/9/20 |  |  |
 | 知乎 | [秋招](https://app.mokahr.com/campus-recruitment/zhihu/68321#/jobs) | 2023/9/7 |  |  |
 | 58同城 | [秋招](https://campus.58.com/campus/jobs) | 2023/9/3 |  |  |
@@ -93,7 +93,7 @@
 | -------------- | ------------------------------------------------------------ | -------- | ---- | ---- |
 | VeSync | [秋招](https://vesync.zhiye.com/campus/jobs) | 2023/9/20 |  |  |
 | 沃尔玛 | [秋招](https://walmart.zhaopin.com/) | 2023/9/1 |  | 管培生，山姆会员店 |
-| Sea | [秋招](https://app.mokahr.com/campus-recruitment/shopee/98508#/) | 2023/8/28 |  |  |
+| Sea | [秋招](https://app.mokahr.com/campus-recruitment/shopee/98508#/) | 2023/8/28 |  |已投  |
 | Discover | [秋招](https://discover.wd5.myworkdayjobs.com/Discover/job/Shanghai-China/Data-Analyst---2024-Campus-Recruitment_R28981) | 2023/8/22 |  |  |
 | 思科 | [秋招](https://campus.51job.com/cisco/school.html) | 2023/8/21 |  |  |
 | 博世 | [秋招](https://app.mokahr.com/campus-recruitment/bosch/73873#/) | 2023/8/17 |  |  |
