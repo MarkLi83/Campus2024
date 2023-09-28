@@ -8,7 +8,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
-| 钉钉 | [秋招](https://talent-holding.alibaba.com/home/bg-introduce?code=JEMSVB&lang=zh) | 2023/9/20 |  |  |
+| 钉钉 | [秋招](https://talent-holding.alibaba.com/home/bg-introduce?code=JEMSVB&lang=zh) | 2023/9/20 |  |已投  |
 | 360 | [秋招](https://360campus.zhiye.com/jobs) | 2023/9/20 |  |  |
 | BOSS直聘 | [秋招](https://www.zhipin.com/gongsi/job/fa2f92669c66eee31Hc~.html?ka=company-jobs) | 2023/9/20 |  |  |
 | 知乎 | [秋招](https://app.mokahr.com/campus-recruitment/zhihu/68321#/jobs) | 2023/9/7 |  |  |
