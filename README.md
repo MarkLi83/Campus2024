@@ -344,7 +344,7 @@
 | 绿盟科技 | [秋招](https://www.nsfocus.com.cn/campus/3_1.html) | 2023/8/24 |  |  |
 | 威努特 | [秋招](https://www.winicssec.com/about/l180.html) | 2023/8/22 |  | 安全公司 |
 | 看云控股 | [秋招](https://hr.yuanfudao.com/campus-recruitment/fenbi/47742/#/jobs?page=1&anchorName=jobsList) | 2023/8/22 |  |  |
-| 奇安信   | [提前批](https://campus.qianxin.com/campus/jobSearch) [秋招](https://campus.qianxin.com/) | 2023/8/22 |      |      |
+| 奇安信   | [提前批](https://campus.qianxin.com/campus/jobSearch) [秋招](https://campus.qianxin.com/) | 2023/8/22 |      |    已投  |
 | 科来软件 | [秋招](http://zhaopin.colasoft.com.cn/Campus)                     | 2023/8/14 |      |      |
 | 中望软件 | [秋招](https://www.zwsoft.cn/job/campus)                     | 2023/8/13 | 广州 西安 北京 武汉 |      |
 | 合合信息 | [算法提前批](http://www.intsig.com/recruit)                  | 2023/8/2  |      |      |
