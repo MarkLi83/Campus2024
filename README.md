@@ -308,7 +308,7 @@
 | 传音                       | [秋招](http://transsion-mt.zhaopin.com/)                     | 2023/7/11 |      |                        |
 | 元戎启行                   | [秋招](https://app.mokahr.com/campus_apply/deeproute/6487#/) | 2023/7/10 |      |                        |
 | 芯动科技                   | [秋招](https://innosilicon.zhiye.com/campus/jobs)            | 2023/7/10 |      |                        |
-| 中芯国际                   | [秋招](https://smics.zhiye.com/campus)                       | 2023/7/10 |      |                        |
+| 中芯国际                   | [秋招](https://smics.zhiye.com/campus)                       | 2023/7/10 |      |          已投              |
 | 联发科技                   | [提前批](https://mediatek.zhiye.com/campus)                  | 2023/7/10 |      |                        |
 | 中国电科十三所             | [提前批](https://mp.weixin.qq.com/s?__biz=MzIzNzEyOTQ2NQ==&mid=2650043676&idx=1&sn=3b7bc540ba3f23b965f3531a97fb1e75) | 2023/7/10 |      |                        |
 | 思远                       | [秋招](https://www.tkplusemi.com/join/)                      | 2023/7/10 |      |                        |
