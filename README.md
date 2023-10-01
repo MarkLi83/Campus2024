@@ -205,7 +205,7 @@
 | 国电南自            | [提前批](http://campus.51job.com/SAC/campus1)                | 2023/5/11 |      |              |
 | 长江证券            | [提前批](https://cjzq.zhiye.com/campus)                      | 2023/5/8  |      |              |
 | 中欧基金            | [提前批](http://zofund.zhiye.com/)                           | 2023/4/21 |      |              |
-| 华泰证券            | [提前批](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/school.html) | 2023/4/10 |      | 研究生及以上 |
+| 华泰证券            | [提前批](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/school.html) | 2023/4/10 |      | 研究生及以上 | 已投
 | 南方基金            | [秋招](https://wecruit.hotjob.cn/SU6138665dbef57c3b63841399/pb/school.html) | 2023/4/10 |      | 研究生及以上 |
 
 
