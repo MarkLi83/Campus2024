@@ -157,14 +157,14 @@
 | 长沙银行 | [秋招](https://wecruit.hotjob.cn/SU628ddf200dcad4099b64f468/pb/index.html#/) | 2023/9/20 |  |  |
 | 兴业银行 | [秋招](https://job.cib.com.cn/#/home) | 2023/9/20 |  |  |
 | 中信银行 | [秋招](https://job.citicbank.com/) | 2023/9/20 |  |  |
-| 中国建设银行 | [秋招](http://job1.ccb.com/cn/job/plan_index.html?planType=XY) | 2023/9/20 |  |  |
+| 中国建设银行 | [秋招](http://job1.ccb.com/cn/job/plan_index.html?planType=XY) | 2023/9/20 |  | 已投 |
 | 中国太平 | [秋招](https://cntp.zhiye.com/campus/jobs) | 2023/9/20 |  |  |
 | 中国工商银行 | [秋招](https://job.icbc.com.cn/pc/index.html#/main/school/home/struct) | 2023/9/20 |  |  |
 | 中国农业银行 | [秋招](https://career.abchina.com.cn/build/index.html#/99) | 2023/9/7 |  |  |
 | 招商局工业集团 | [秋招](http://cmirecruit.pincn.com/m/joinUs.html) | 2023/9/7 |  |  |
 | 上海银行 | [秋招](https://bosc.zhiye.com/campus/jobs) | 2023/9/4 |  |  |
 | 中国邮政储蓄银行 | [秋招](https://psbc2024.zhaopin.com/cl.html) | 2023/9/4 |  |  |
-| 中国银行 | [秋招](https://campus.chinahr.com/pages/2024-boc/#/jobs) | 2023/9/4 |  |  |
+| 中国银行 | [秋招](https://campus.chinahr.com/pages/2024-boc/#/jobs) | 2023/9/4 |  | 已投 |
 | 中金所 | [秋招](https://cffexit.zhiye.com/home) | 2023/9/4 |  |  |
 | 易方达 | [秋招](http://job.efunds.com.cn) | 2023/9/3 |  |  |
 | 申万宏源 | [秋招](https://app.mokahr.com/campus-recruitment/swhysc-job/117918#/) | 2023/9/3 |  |  |
