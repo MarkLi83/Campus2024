@@ -97,7 +97,8 @@
 | Discover | [秋招](https://discover.wd5.myworkdayjobs.com/Discover/job/Shanghai-China/Data-Analyst---2024-Campus-Recruitment_R28981) | 2023/8/22 |  |  |
 | 思科 | [秋招](https://campus.51job.com/cisco/school.html) | 2023/8/21 |  |  |
 | 博世 | [秋招](https://app.mokahr.com/campus-recruitment/bosch/73873#/) | 2023/8/17 |  |  |
-| 瑞银中国 | [秋招](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=8455#keyWordSearch=&locationSearch=) | 2023/8/16 |  |  |
+| 瑞银中国 | [秋招](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=8455#keyWordSearch=&locationSearch=) | 2023/8/16 |  | 已投
+|
 | Apple | [秋招](https://jobs.apple.com/zh-cn/search?location=china-CHNC&team=internships-STDNT-INTRN&cid=wechat_corporate_china_wechat_china_2023autumnur&board_id=JB089) | 2023/8/13 |  |  |
 | 施耐德电气 | [秋招](https://www.zhipin.com/zt/2023/schneider/yanfaxinxing.html) | 2023/8/13 |  |  |
 | 特斯拉 | [秋招](https://app.mokahr.com/campus-recruitment/tesla/41460#/jobs) | 2023/8/3 |      |      |
