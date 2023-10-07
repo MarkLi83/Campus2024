@@ -168,7 +168,7 @@
 | 中国银行 | [秋招](https://campus.chinahr.com/pages/2024-boc/#/jobs) | 2023/9/4 |  | 已投 |
 | 中金所 | [秋招](https://cffexit.zhiye.com/home) | 2023/9/4 |  |  |
 | 易方达 | [秋招](http://job.efunds.com.cn) | 2023/9/3 |  |  |
-| 申万宏源 | [秋招](https://app.mokahr.com/campus-recruitment/swhysc-job/117918#/) | 2023/9/3 |  |  |
+| 申万宏源 | [秋招](https://app.mokahr.com/campus-recruitment/swhysc-job/117918#/) | 2023/9/3 |  | 已投 |
 | 招联 | [秋招](https://wecruit.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/school.html) | 2023/9/1 |  |  |
 | 平安银行 | [秋招](https://campus.pingan.com/pab/position) | 2023/8/31 |  |  |
 | 同花顺 | [秋招](https://job.10jqka.com.cn/#/) | 2023/8/31 |  |  |
